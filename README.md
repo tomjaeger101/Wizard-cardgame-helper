@@ -31,4 +31,4 @@ The parameters are currently set to a=0.023 and b=-0.2. These parameters can be 
 
 The UI looks like:
 
-![alt text]()
+![alt text](https://github.com/tomjaeger101/Wizard-cardgame-helper/blob/main/wizard_ui.PNG)
