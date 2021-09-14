@@ -7,7 +7,7 @@ The class 'Mainwindow' contains the Userinterface (using PyQt5).
 
 How the probability is calculated:
 - If the Trump color is none
-  ```math
-P = \frac{\sigma}{\sqrt{n}}
-```
+
+<img src="https://render.githubusercontent.com/render/math?math=P=10">
+
 
