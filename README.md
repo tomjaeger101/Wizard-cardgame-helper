@@ -15,6 +15,7 @@ How the probability is calculated:
 - If the Trump color is not none the probability is:
   
     <img src="https://render.githubusercontent.com/render/math?math=P=\biggl(\product_{i=0}^{17-card}\frac{42-i-card}{59-i} %2B 0.3 \biggr)">   If the card has the trump color
+    
     <img src="https://render.githubusercontent.com/render/math?math=P=\biggl(\product_{i=0}^{17-card}\frac{29-i-card}{59-i} \biggr)">   If the card has not the trump color
 
   The 0.3 is added, because in rounds, where the number of total dealt card is high, it is likely to get a trick with a trump card even if the number is low.
