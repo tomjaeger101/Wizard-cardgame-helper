@@ -27,3 +27,8 @@ How the probability is calculated:
 The parameters are currently set to a=0.023 and b=-0.2. These parameters can be adjusted individualy by the player, to costumize the probability to their playstyle.
    
   
+
+
+The UI looks like:
+
+![alt text]()
