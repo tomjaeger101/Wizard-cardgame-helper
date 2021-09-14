@@ -328,102 +328,102 @@ class mainwindow(QMainWindow):
 
         self.card1 = QtWidgets.QLabel(self)
         self.card1.setText('')
-        self.card1.resize(150, 30)
+        self.card1.resize(150, 25)
         self.card1.move(450, 60)
 
         self.card2 = QtWidgets.QLabel(self)
         self.card2.setText('')
-        self.card2.resize(150, 30)
+        self.card2.resize(150, 25)
         self.card2.move(450, 80)
 
         self.card3 = QtWidgets.QLabel(self)
         self.card3.setText('')
-        self.card3.resize(150, 30)
+        self.card3.resize(150, 25)
         self.card3.move(450, 100)
 
         self.card4 = QtWidgets.QLabel(self)
         self.card4.setText('')
-        self.card4.resize(150, 30)
+        self.card4.resize(150, 25)
         self.card4.move(450, 120)
 
         self.card5 = QtWidgets.QLabel(self)
         self.card5.setText('')
-        self.card5.resize(150, 30)
+        self.card5.resize(150, 25)
         self.card5.move(450, 140)
 
         self.card6 = QtWidgets.QLabel(self)
         self.card6.setText('')
-        self.card6.resize(150, 30)
+        self.card6.resize(150, 25)
         self.card6.move(450, 160)
 
         self.card7 = QtWidgets.QLabel(self)
         self.card7.setText('')
-        self.card7.resize(150, 30)
+        self.card7.resize(150, 25)
         self.card7.move(450, 180)
 
         self.card8 = QtWidgets.QLabel(self)
         self.card8.setText('')
-        self.card8.resize(150, 30)
+        self.card8.resize(150, 25)
         self.card8.move(450, 200)
 
         self.card9 = QtWidgets.QLabel(self)
         self.card9.setText('')
-        self.card9.resize(150, 30)
+        self.card9.resize(150, 25)
         self.card9.move(450, 220)
 
         self.card10 = QtWidgets.QLabel(self)
         self.card10.setText('')
-        self.card10.resize(150, 30)
+        self.card10.resize(150, 25)
         self.card10.move(450, 240)
 
         self.card11 = QtWidgets.QLabel(self)
         self.card11.setText('')
-        self.card11.resize(150, 30)
+        self.card11.resize(150, 25)
         self.card11.move(550, 60)
 
         self.card12 = QtWidgets.QLabel(self)
         self.card12.setText('')
-        self.card12.resize(150, 30)
+        self.card12.resize(150, 25)
         self.card12.move(550, 80)
 
         self.card13 = QtWidgets.QLabel(self)
         self.card13.setText('')
-        self.card13.resize(150, 30)
+        self.card13.resize(150, 25)
         self.card13.move(550, 100)
 
         self.card14 = QtWidgets.QLabel(self)
         self.card14.setText('')
-        self.card14.resize(150, 30)
+        self.card14.resize(150, 25)
         self.card14.move(550, 120)
 
         self.card15 = QtWidgets.QLabel(self)
         self.card15.setText('')
-        self.card15.resize(150, 30)
+        self.card15.resize(150, 25)
         self.card15.move(550, 140)
 
         self.card16 = QtWidgets.QLabel(self)
         self.card16.setText('')
-        self.card16.resize(150, 30)
+        self.card16.resize(150, 25)
         self.card16.move(550, 160)
 
         self.card17 = QtWidgets.QLabel(self)
         self.card17.setText('')
-        self.card17.resize(150, 30)
+        self.card17.resize(150, 25)
         self.card17.move(550, 180)
 
         self.card18 = QtWidgets.QLabel(self)
         self.card18.setText('')
-        self.card18.resize(150, 30)
+        self.card18.resize(150, 25)
         self.card18.move(550, 200)
 
         self.card19 = QtWidgets.QLabel(self)
         self.card19.setText('')
-        self.card19.resize(150, 30)
+        self.card19.resize(150, 25)
         self.card19.move(550, 220)
 
         self.card20 = QtWidgets.QLabel(self)
         self.card20.setText('')
-        self.card20.resize(150, 30)
+        self.card20.resize(150, 25)
         self.card20.move(550, 240)
 
 
@@ -673,3 +673,13 @@ if __name__ == "__main__":
     win()
 
 
+
+'''
+time wasted:
+    25.6 3,5h
+    26.6 3h
+    28.6 1h
+    20.8 4h
+    22.8 3h
+    5.9 3h
+'''
