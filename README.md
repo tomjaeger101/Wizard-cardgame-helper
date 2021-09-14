@@ -32,3 +32,7 @@ The parameters are currently set to a=0.023 and b=-0.2. These parameters can be 
 The UI looks like this:
 
 ![alt text](https://github.com/tomjaeger101/Wizard-cardgame-helper/blob/main/wizard_ui.PNG)
+
+
+
+Currently the programm crashes, when the input format is wrong (for example 2 colors for one card). If you try the code please give me feedback if the number of tricks roughly works. Thanks and enjoy :) 
